@@ -1,6 +1,3 @@
-Projet2-Visualisez-des-donnees-avec-Excel
-
-
 🎯 Contexte
 Première mission de visualisation de données dans le domaine du sport. L'objectif est de créer des graphiques clairs, accessibles et adaptés au public cible.
 
